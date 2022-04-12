@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfonthom
-- 👀 I’m interested in FrontEnd Dev
-- 🌱 I’m currently learning FullStack Dev
+- 👀 I’m interested in Javascript, ReactJs
+- 🌱 I’m currently learning NodeJs,Express Js and MongoDB 
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me thompsonmfonabasi@gmail.com
 
